@@ -9,10 +9,11 @@
 ### 3. Aşama: [2,6,16,22,18,27] --> 22 ile 18 Yer değiştirir = [2,6,16,18,22,27]
 ### Bu dizinin sonucu: [2,6,16,18,22,27]
 
+### Soru 2: Big O gösterimini yazınız.
 
-### Soru 2: Big-O gösterimini yazınız.
+### Cevap 2: O(n²) = O(6²) = O(36)
 
-### Cevap 2:
-### O(n²) = O(6²) = O(36)
+
+
 
 
