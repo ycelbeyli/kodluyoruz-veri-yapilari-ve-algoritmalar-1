@@ -10,4 +10,9 @@
 ### Bu dizinin sonucu: [2,6,16,18,22,27]
 
 
+### Soru 2: Big-O gösterimini yazınız.
+
+### Cevap 2:
+### O(n²) = O(6²) = O(36)
+
 
